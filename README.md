@@ -51,6 +51,6 @@ pnpm dev
 
 ```
 
-### How it looks
+### How backend looks
 
 ![ui](form-hub-turborepo.png)
